@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "技术┃影视",
+      "name": "水电费┃影视",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
