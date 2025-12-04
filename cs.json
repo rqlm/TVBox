@@ -1,17 +1,20 @@
 {
   "sites": [
-    {
-      "key": "豆瓣",
-      "name": "豆瓣┃影视",
+      {
+      "key": "斗鱼js",
+      "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/rqlm/TVBox/refs/heads/main/pz.json",
-      "categories": [
-        "连续剧"
-      ]
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "timeout": 10,
+      "playerType": "2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "视频",
