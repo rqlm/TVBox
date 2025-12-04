@@ -5,7 +5,7 @@
       "name": "送",
       "type": 1,
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
-      "playUrl": "",
+      "playUrl": "https://www.mtjiexi.cc:966/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
