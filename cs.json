@@ -4,7 +4,7 @@
       "key": "视频",
       "name": "送",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
