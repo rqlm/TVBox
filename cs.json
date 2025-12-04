@@ -10,10 +10,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "连续剧"
-      ]
-    },
-   "filters": {
         "连续剧": [
             {
                 "key": "duration",
@@ -40,9 +36,10 @@
                         "v": "1"
                     }
                 ]
-            }
-        ]
-  ],
+    }
+  ]
+        }
+        ],
   "lives": [
     {
       "group": "自定义",
