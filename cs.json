@@ -19,8 +19,8 @@
     {
       "key": "视频",
       "name": "送",
-      "type": 1,
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "type": 0,
+      "api": "http://www.qilinzyz.com/api.php/provide/vod/?ac=list",
       "playUrl": 1,
       "searchable": 1,
       "quickSearch": 1,
