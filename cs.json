@@ -24,7 +24,7 @@
       "playUrl": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "categories": [
         "战争片"
       ]
