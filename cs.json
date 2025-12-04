@@ -3,9 +3,9 @@
     {
       "key": "视频",
       "name": "送",
-      "type": 0,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
-      "playUrl": "https://www.mtjiexi.cc:966/?url=",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "playUrl": "https://www.dbjiexi.com:966/jx/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
