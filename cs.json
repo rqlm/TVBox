@@ -21,7 +21,7 @@
       "name": "送",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/at/json",
-      "playUrl": 1,
+      "playUrl": "https://jisjiexi.com/play/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
