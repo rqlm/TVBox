@@ -3,16 +3,10 @@
     {
       "key": "豆瓣",
       "name": "豆瓣┃影视",
-      "type": 0,
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
-      "playUrl": "https://www.dbjiexi.com:966/jx/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "连续剧": [
+          "filters": {
+        "儿童早教": [
             {
-                "key": "连续剧",
+                "key": "duration",
                 "name": "时长",
                 "value": [
                     {
@@ -36,8 +30,18 @@
                         "v": "1"
                     }
                 ]
-    }
-  ]
+              }
+              ]
+        }
+      "type": 0,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "playUrl": "https://www.dbjiexi.com:966/jx/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "连续剧"
+        ]
         }
         ],
   "lives": [
