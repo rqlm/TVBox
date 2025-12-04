@@ -4,11 +4,24 @@
       "key": "豆瓣",
       "name": "豆瓣┃影视",
       "type": 3,
-      "api": "https://mtjiexi.cc:966/?url=",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/rqlm/TVBox/refs/heads/main/pz.json",
+      "categories": [
+        "连续剧"
+      ]
+    },
+    {
+      "key": "视频",
+      "name": "送",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "playUrl": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "categories": [
         "连续剧"
       ]
