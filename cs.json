@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "视频",
-      "name": "送",
+      "name": "视频",
       "type": 1,
       "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
       "playUrl": "https://www.dbjiexi.com:966/jx/?url=",
